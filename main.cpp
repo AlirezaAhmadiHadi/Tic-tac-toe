@@ -105,6 +105,9 @@ void TicTaToe::ShowBoard(void)
 
 int main()
 {
+	// Add player select menu
+	// add computer player
+
 	TicTaToe board;
 	int x;
 	char starter;
